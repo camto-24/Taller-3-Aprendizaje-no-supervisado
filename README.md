@@ -27,20 +27,7 @@ Se construye un sistema de recomendación basado en contenido para sugerir cuent
 #### blog_casciari.csv
 Contiene cuentos, títulos y contenido textual de los posts del blog.
 
-
-Estructura del repositorio
-📦 repo
- ┣ 📂 data
- ┃ ┣ artists.dat
- ┃ ┣ user_artists.dat
- ┃ ┗ blog_casciari.csv
- ┣ S5_recomendacion_musica.ipynb
- ┣ S6_recomendacion_blog.ipynb
- ┗ README.md
-
 ### Resultados esperados
 - Recomendación de artistas similares basada en comportamiento de usuarios
 - Recomendación de cuentos similares basada en contenido textual
 - Comprensión de sistemas de recomendación colaborativos y basados en contenido
-
-Proyecto desarrollado como parte del curso de Aprendizaje No Supervisado con fines académicos.
